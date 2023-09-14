@@ -49,10 +49,14 @@ Here we can observe the general structure of our method for RGB-D DA. Firstly, t
 
 # Additional useful resources
 - Implementations of popular self-supervised algorithms available at:
+  
    https://github.com/jason718/awesome-self-supervised-learning
 - Implementations of popular domain adaptation algorithms available at:
+  
    https://github.com/zhaoxin94/awesome-domain-adaptation
 - Additional material for RGB-D integration:
+  
    http://ais.informatik.uni-freiburg.de/publications/papers/eitel15iros.pdf
 - A survey on Domain Adaptation algorithms:
+  
    https://arxiv.org/pdf/1802.03601.pdf
