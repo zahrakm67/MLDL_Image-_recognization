@@ -1,6 +1,6 @@
 # MLDL_Image_recognization
 
-This repository contains the code for our adaptation of the paper [**Unsupervised Domain Adaptation through Inter-modal Rotation for RGB-D Object Recognition**](https://arxiv.org/abs/2004.10016)
+This repository contains the code for our adaptation of the paper [**Unsupervised Domain Adaptation through Inter-modal Rotation for RGB-D Object Recognition**](https://arxiv.org/abs/2004.10016) It is a Machin Learning And Deep Learning Project.
 
 The goal of the project is to induce Domain Adaptation from label-rich to label-poor distributions via an auxiliary self-supervised task that integrates RGB image data with the corresponding Depth maps. 
 
