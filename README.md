@@ -33,6 +33,13 @@ The datasets are distributed as tar files, you will have to load and untar them 
 2. Implement the synROD ➞ ROD Domain Adaptation procedure described in the paper.
 3. Run appropriate hyperparameter optimization for both source-only and Domain Adaptation. For each method you have to choose at least 5 different sets of hyperparameters.
 4. Choose a variation of the project by implementing a different DA(Domain Adaptation) method that we call it **Implementation of Different Rotation Based Methods for Unsupervised Domain Adaptation**
+<div align="center">
+  <img src="https://github.com/zahrakm67/MLDL_Image_Recognization/blob/main/imgs/RGB-D DA.jpg" alt="Alt text" title="The general structure of our method for RGB-D DA" width="600" height="200">
+  </div>
+  
+<caption>
+Here we can observe the general structure of our method for RGB-D DA. Firstly, the blue squares represent the CNN, composed by a two-stream feature extractor E and by two network heads, the main and the pretext, respectively M and P. The first is trained using object recognition with the labeled source data (see the red arrow), while the second exploits both source and target samples. Finally, both RGB and Depth images are independently rotate before being transferred to the network.
+</caption>
 
    
 # Dependencies
